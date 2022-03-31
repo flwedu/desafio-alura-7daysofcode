@@ -1,4 +1,4 @@
-#Desafio Alura 7 Days of Code
+# Desafio Alura 7 Days of Code
 
 Essa aplicação foi criada utilizando Java na trilha #7DaysOfCode da Alura com a ajuda do instrutor @peas.
 
