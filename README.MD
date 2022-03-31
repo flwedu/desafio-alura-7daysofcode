@@ -2,7 +2,7 @@
 
 Essa aplicação foi criada utilizando Java na trilha #7DaysOfCode da Alura com a ajuda do instrutor @peas.
 
-# Configuração do Projeto e utilização
+## Configuração do Projeto e utilização
 Essa aplicação consome a API do IMDB, que necessita de uma API Key para funcionar. Para obtê-la,
 é necessário que você crie um cadastro no próprio site  https://imdb-api.com/.
 
